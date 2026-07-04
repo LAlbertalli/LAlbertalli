@@ -43,9 +43,11 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 
 
-> **An AI agent just tried to hand-roll raw SQL queries for my new product's backend.**
+**LLM and simplicity**
 <img src="images/Gemini_Generated_Image_1a9x0h1a9x0h1a9x.png" align="right" width="250" alt="AI Coding" />
-> 
+ 
+> An AI agent just tried to hand-roll raw SQL queries for my new product's backend.
+
 > The goal? "Keep it simple." The reality? A massive architectural risk disguised as clean code.
 > 
 > Lately, my LinkedIn feed has been flooded with trendy frameworks pushing AI to write tiny, hyper-minimalist code—think of the "Caveman" or "Ponytail" development concepts, or even Karpathy's four rules for agentic coding.
@@ -56,9 +58,11 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <br clear="right" />
 
-> **Everyone is calling Apple’s new Siri "too little, too late."**
+**On Apple intelligence**
 <img src="images/Gemini_Generated_Image_nt3s1znt3s1znt3s.png" align="right" width="250" alt="Siri Analysis" />
-> 
+ 
+> Everyone is calling Apple’s new Siri "too little, too late."
+>
 > They are fundamentally misunderstanding how Apple wins.
 > 
 > A lot of people are making the same mistake Sam Altman did: assuming Claude and ChatGPT are directly competing with Siri. They aren't.
@@ -71,9 +75,9 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <br clear="right" />
 
-> **Lack of Product Integrity**
+**Lack of Product Integrity**
 <img src="images/Gemini_Generated_Image_2bibqk2bibqk2bib.png" align="right" width="250" alt="Product Integrity" />
-> 
+ 
 > A simple trip to McDonald's today revealed a hidden flaw that breaks countless digital products.
 > 
 > I call it a lack of "Product Integrity."
