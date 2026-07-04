@@ -39,6 +39,14 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 ---
 
+### 📝 Writings on LinkedIn
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7477482558323150848?collapsed=1" height="542" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
+---
+
 ### 📂 Featured Work & Research
 
 #### 🌟 Open Source & Projects
