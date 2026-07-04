@@ -55,6 +55,28 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
   <img src="images/Gemini_Generated_Image_1a9x0h1a9x0h1a9x.png" alt="AI Coding" width="80%" />
 </p>
 
+> **Everyone is calling Apple’s new Siri "too little, too late."**
+> They are fundamentally misunderstanding how Apple wins.
+> A lot of people are making the same mistake Sam Altman did: assuming Claude and ChatGPT are directly competing with Siri. They aren't.
+> Foundational AI models are currently an Enterprise game. The handful of tech enthusiasts paying $20 a month for personal AI are a rounding error.
+> Siri is pure Consumer. And in the consumer hardware market, the rules of the game are completely different.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_everyone-is-calling-apples-new-siri-too-activity-7473853140023545856-6fyl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
+
+> **Lack of Product Integrity**
+> A simple trip to McDonald's today revealed a hidden flaw that breaks countless digital products.
+> 
+> I call it a lack of "Product Integrity."
+> 
+> Here is what happened: My family and I were ordering at the digital kiosk. Right before paying, I decided to remove the fries from my order. I clicked the button clearly labeled "View Order."
+> 
+> Instead of simply showing me my cart, the app forced me through the entire multi-step checkout funnel just to let me delete one item.
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_a-simple-trip-to-mcdonalds-today-revealed-activity-7471024841043881984-EYe2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
+
+<p align="center">
+  <img src="images/Gemini_Generated_Image_2bibqk2bibqk2bib.png" alt="AI Coding" width="80%" />
+</p>
+
 ---
 
 ### 📂 Featured Work & Research
