@@ -47,7 +47,7 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 <img src="images/Gemini_Generated_Image_1a9x0h1a9x0h1a9x.png" align="right" width="250" alt="AI Coding" />
  
 > An AI agent just tried to hand-roll raw SQL queries for my new product's backend.
-
+>
 > The goal? "Keep it simple." The reality? A massive architectural risk disguised as clean code.
 > 
 > Lately, my LinkedIn feed has been flooded with trendy frameworks pushing AI to write tiny, hyper-minimalist code—think of the "Caveman" or "Ponytail" development concepts, or even Karpathy's four rules for agentic coding.
