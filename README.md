@@ -52,7 +52,7 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_an-ai-agent-just-tried-to-hand-roll-raw-sql-activity-7477482561556938753-AB-f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
 
 <p align="center">
-  <img src="images/Gemini_Generated_Image_1a9x0h1a9x0h1a9x.png" alt="AI Coding" width="80%" />
+  <img src="images/Gemini_Generated_Image_1a9x0h1a9x0h1a9x.png" alt="AI Coding" width="60%" />
 </p>
 
 > **Everyone is calling Apple’s new Siri "too little, too late."**
@@ -62,6 +62,10 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 > Siri is pure Consumer. And in the consumer hardware market, the rules of the game are completely different.
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_everyone-is-calling-apples-new-siri-too-activity-7473853140023545856-6fyl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
+
+<p align="center">
+  <img src="images/Gemini_Generated_Image_nt3s1znt3s1znt3s.png" alt="AI Coding" width="80%" />
+</p>
 
 > **Lack of Product Integrity**
 > A simple trip to McDonald's today revealed a hidden flaw that breaks countless digital products.
