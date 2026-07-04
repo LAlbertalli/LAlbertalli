@@ -41,9 +41,19 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 ### 📝 Writings on LinkedIn
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7477482558323150848?collapsed=1" height="542" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+> **An AI agent just tried to hand-roll raw SQL queries for my new product's backend.**
+> 
+> The goal? "Keep it simple." The reality? A massive architectural risk disguised as clean code.
+> 
+> Lately, my LinkedIn feed has been flooded with trendy frameworks pushing AI to write tiny, hyper-minimalist code—think of the "Caveman" or "Ponytail" development concepts, or even Karpathy's four rules for agentic coding.
+> 
+> As a product executive who leans into modern AI workflows, I love the philosophy of radical simplicity until I look at the output with a critical eye.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_an-ai-agent-just-tried-to-hand-roll-raw-sql-activity-7477482561556938753-AB-f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
 
-
+<p align="center">
+  <img src="images/Gemini_Generated_Image_1a9x0h1a9x0h1a9x.png" alt="AI Coding" width="80%" />
+</p>
 
 ---
 
