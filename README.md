@@ -42,6 +42,7 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 ### 🌟 My Projects
 *   **[PLAM](https://github.com/LAlbertalli/plam):** A local-first, multi-agent system designed to orchestrate local LLMs (via llama.cpp), manage hierarchical agents with complex memory systems (pgvector & JSONB), and safely run LLM-generated code inside Docker sandboxes. Optimized for CUDA acceleration on NVIDIA DGX Spark.
+*   **[Portfolio Manager](https://github.com/LAlbertalli/public_com_portfolio):** A simple script to manage my retirements accounts on Public.com
 *   **[Apache Superset](https://github.com/apache/superset) (Contributor):** Contributed to the data exploration, time-series, and database connectivity components of this leading open-source data visualization platform.
 *   **[python-cayley](https://github.com/LAlbertalli/python-cayley):** An open-source Python client library designed to interface seamlessly with the Cayley graph database.
 *   **[Oscar2015-Dataflow](https://github.com/LAlbertalli/Oscar2015-Dataflow):** A Google Cloud Dataflow pipeline built in Python to process and analyze Oscar-related tweets in real-time.
@@ -49,6 +50,16 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 ---
 
 ### 📝 Writings on LinkedIn
+
+**996 and the work culture in Silicon Valley and China**
+>Silicon Valley is currently importing a toxic management philosophy that even the Chinese government is growing skeptical of.
+>
+>I recently listened to the China Decode podcast, which highlighted a fascinating demographic shift: young Chinese professionals are abandoning Tier 1 tech hubs for Tier 3 and 4 cities. They are deliberately taking pay cuts to escape the grueling "996" work culture (9 AM to 9 PM, 6 days a week).
+> Meanwhile, right here in the Bay Area, I’m hearing about tech companies explicitly asking candidates: "Are you ready to commit to 9-9-6?"
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_silicon-valley-is-currently-importing-a-toxic-share-7484042194262089728-QCHm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
+
+<br clear="right" />
 
 **LLM and simplicity**
 <img src="images/Gemini_Generated_Image_1a9x0h1a9x0h1a9x.png" align="right" width="250" alt="AI Coding" />
