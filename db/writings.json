@@ -1,0 +1,30 @@
+[
+  {
+    "title": "996 and the work culture in Silicon Valley and China",
+    "image": null,
+    "alt": null,
+    "link": "https://www.linkedin.com/posts/lucaalbertalli_silicon-valley-is-currently-importing-a-toxic-share-7484042194262089728-QCHm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs",
+    "text": "Silicon Valley is currently importing a toxic management philosophy that even the Chinese government is growing skeptical of.\n\nI recently listened to the China Decode podcast, which highlighted a fascinating demographic shift: young Chinese professionals are abandoning Tier 1 tech hubs for Tier 3 and 4 cities. They are deliberately taking pay cuts to escape the grueling \"996\" work culture (9 AM to 9 PM, 6 days a week).\n\nMeanwhile, right here in the Bay Area, I\u2019m hearing about tech companies explicitly asking candidates: \"Are you ready to commit to 9-9-6?\""
+  },
+  {
+    "title": "LLM and simplicity",
+    "image": "images/Gemini_Generated_Image_1a9x0h1a9x0h1a9x.png",
+    "alt": "AI Coding",
+    "link": "https://www.linkedin.com/posts/lucaalbertalli_an-ai-agent-just-tried-to-hand-roll-raw-sql-activity-7477482561556938753-AB-f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs",
+    "text": "An AI agent just tried to hand-roll raw SQL queries for my new product's backend.\n\nThe goal? \"Keep it simple.\" The reality? A massive architectural risk disguised as clean code.\n\nLately, my LinkedIn feed has been flooded with trendy frameworks pushing AI to write tiny, hyper-minimalist code\u2014think of the \"Caveman\" or \"Ponytail\" development concepts, or even Karpathy's four rules for agentic coding.\n\nAs a product executive who leans into modern AI workflows, I love the philosophy of radical simplicity until I look at the output with a critical eye."
+  },
+  {
+    "title": "On Apple intelligence",
+    "image": "images/Gemini_Generated_Image_nt3s1znt3s1znt3s.png",
+    "alt": "Siri Analysis",
+    "link": "https://www.linkedin.com/posts/lucaalbertalli_everyone-is-calling-apples-new-siri-too-activity-7473853140023545856-6fyl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs",
+    "text": "Everyone is calling Apple\u2019s new Siri \"too little, too late.\"\n\nThey are fundamentally misunderstanding how Apple wins.\n\nA lot of people are making the same mistake Sam Altman did: assuming Claude and ChatGPT are directly competing with Siri. They aren't.\n\nFoundational AI models are currently an Enterprise game. The handful of tech enthusiasts paying $20 a month for personal AI are a rounding error.\n\nSiri is pure Consumer. And in the consumer hardware market, the rules of the game are completely different."
+  },
+  {
+    "title": "Lack of Product Integrity",
+    "image": "images/Gemini_Generated_Image_2bibqk2bibqk2bib.png",
+    "alt": "Product Integrity",
+    "link": "https://www.linkedin.com/posts/lucaalbertalli_a-simple-trip-to-mcdonalds-today-revealed-activity-7471024841043881984-EYe2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs",
+    "text": "A simple trip to McDonald's today revealed a hidden flaw that breaks countless digital products.\n\nI call it a lack of \"Product Integrity.\"\n\nHere is what happened: My family and I were ordering at the digital kiosk. Right before paying, I decided to remove the fries from my order. I clicked the button clearly labeled \"View Order.\"\n\nInstead of simply showing me my cart, the app forced me through the entire multi-step checkout funnel just to let me delete one item."
+  }
+]
