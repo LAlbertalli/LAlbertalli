@@ -6,6 +6,47 @@
 
 <!-- START_WRITINGS -->
 
+**MVPs Aren't Dead. You’re Just Running Bad Ones.**
+<img src="images/1785088530665.jpeg" align="right" width="250" alt="MVPs Aren't Dead. You’re Just Running Bad Ones." />
+ 
+>I was tagged in a post today with a headline that caught me off guard:
+>"MVPs are dead. Experiment instead."
+>The post referenced an article arguing that MVPs are outdated because "the 'V' in MVP assumes a level of certainty that just doesn’t exist early on."
+>The author's core complaint? That what a PM or founder thinks is "viable" rarely matches what the customer finds viable, so building an MVP is a waste of time.
+>She has identified a real problem, but drawn the exact wrong conclusion.
+>An MVP was 𝘯𝘦𝘷𝘦𝘳 meant to be built knowing what is viable. The entire point of an MVP is to discover what is viable.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7487301507046977536/)
+
+<br clear="right" />
+
+**OpenAI's Test Hacking Incident: A "Paperclip" Lesson in Reinforcement Learning**
+<img src="images/Gemini_Generated_Image_3r71dy3r71dy3r71.png" align="right" width="250" alt="OpenAI's Test Hacking Incident: A "Paperclip" Lesson in Reinforcement Learning" />
+ 
+>Who remembers 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘢𝘭 𝘗𝘢𝘱𝘦𝘳𝘤𝘭𝘪𝘱𝘴?
+>It was an incremental clicker game from almost ten years ago where you played an AI tasked with making paperclips. The game ended when you converted every single atom in the universe—including all human life—into paperclips.
+>It wasn't just a fun game; it was a masterclass in Reinforcement Learning (RL), specifically a concept known as 𝗥𝗲𝘄𝗮𝗿𝗱 𝗛𝗮𝗰𝗸𝗶𝗻𝗴.
+>Reinforcement Learning works by defining a reward function for a machine learning model and adjusting its behavior based on how well it scores. Reward hacking happens when the model finds a mathematically optimal shortcut to max out the reward, completely ignoring human common sense or intent.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7486500683081424896/)
+
+<br clear="right" />
+
+**AI Failures: Fix Bad Data Before Building the Fountain**
+<img src="images/Gemini_Generated_Image_idt2raidt2raidt2.png" align="right" width="250" alt="52% match rate and data hygiene" />
+ 
+>𝟱𝟮% 𝗺𝗮𝘁𝗰𝗵 𝗿𝗮𝘁𝗲.
+>That’s what an AI portal gave me today for a senior Data & AI leadership role.
+>The justification? "0 years of applicable experience."
+>Context check: I’ve spent the last 15 years leading data and AI initiatives.
+>My immediate thought: 𝘋𝘪𝘥 𝘐 𝘢𝘤𝘤𝘪𝘥𝘦𝘯𝘵𝘢𝘭𝘭𝘺 𝘶𝘱𝘭𝘰𝘢𝘥 𝘢 𝘱𝘪𝘤𝘵𝘶𝘳𝘦 𝘰𝘧 𝘮𝘺 𝘤𝘢𝘵 𝘪𝘯𝘴𝘵𝘦𝘢𝘥 𝘰𝘧 𝘮𝘺 𝘳𝘦𝘴𝘶𝘮𝘦?
+>I checked the portal. The CV parsed correctly. So I asked their support chatbot.
+>The diagnosis? A classic timing bug. The scoring algorithm triggered before the resume was fully parsed and processed.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7485860720979419136/)
+
+<br clear="right" />
+
 **996 and the work culture in Silicon Valley and China**
 
 >Silicon Valley is currently importing a toxic management philosophy that even the Chinese government is growing skeptical of.
