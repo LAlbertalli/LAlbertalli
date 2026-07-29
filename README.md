@@ -68,7 +68,7 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 <br clear="right" />
 
 **OpenAI's Test Hacking Incident: A "Paperclip" Lesson in Reinforcement Learning**
-<img src="images/Gemini_Generated_Image_3r71dy3r71dy3r71.png" align="right" width="250" alt="OpenAI's Test Hacking Incident: A "Paperclip" Lesson in Reinforcement Learning" />
+<img src="images/Gemini_Generated_Image_3r71dy3r71dy3r71.png" align="right" width="250" alt="OpenAI's Test Hacking Incident: A 'Paperclip' Lesson in Reinforcement Learning" />
  
 >Who remembers 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘢𝘭 𝘗𝘢𝘱𝘦𝘳𝘤𝘭𝘪𝘱𝘴?
 >It was an incremental clicker game from almost ten years ago where you played an AI tasked with making paperclips. The game ended when you converted every single atom in the universe—including all human life—into paperclips.
