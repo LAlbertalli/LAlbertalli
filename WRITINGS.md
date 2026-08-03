@@ -6,6 +6,19 @@
 
 <!-- START_WRITINGS -->
 
+**Navigating Product Debt and the role of the Product Architect**
+<img src="images/Gemini_Generated_Image_63r39f63r39f63r3.png" align="right" width="250" alt="Navigating Product Debt and the role of the Product Architect" />
+ 
+>Product debt isn't just a messy backlog or a clunky user interface.
+>It is the accumulated tax of shipping features without a structural blueprint.
+>Ask most leaders who owns "Product Architecture," and they’ll either point to the CTO or assume it’s a UX designer's job. But if Product Architecture were just about screen flows, it would be a design task.
+>It isn't.
+>Product Architecture is the structural integrity of your entire product system:
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_product-debt-isnt-just-a-messy-backlog-or-share-7490169717652037632-M3Xy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
+
+<br clear="right" />
+
 **MVPs Aren't Dead. You’re Just Running Bad Ones.**
 <img src="images/1785088530665.jpeg" align="right" width="250" alt="MVPs Aren't Dead. You’re Just Running Bad Ones." />
  

@@ -53,6 +53,19 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Navigating Product Debt and the role of the Product Architect**
+<img src="images/Gemini_Generated_Image_63r39f63r39f63r3.png" align="right" width="250" alt="Navigating Product Debt and the role of the Product Architect" />
+ 
+>Product debt isn't just a messy backlog or a clunky user interface.
+>It is the accumulated tax of shipping features without a structural blueprint.
+>Ask most leaders who owns "Product Architecture," and they’ll either point to the CTO or assume it’s a UX designer's job. But if Product Architecture were just about screen flows, it would be a design task.
+>It isn't.
+>Product Architecture is the structural integrity of your entire product system:
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_product-debt-isnt-just-a-messy-backlog-or-share-7490169717652037632-M3Xy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
+
+<br clear="right" />
+
 **MVPs Aren't Dead. You’re Just Running Bad Ones.**
 <img src="images/1785088530665.jpeg" align="right" width="250" alt="MVPs Aren't Dead. You’re Just Running Bad Ones." />
  
@@ -68,7 +81,7 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 <br clear="right" />
 
 **OpenAI's Test Hacking Incident: A "Paperclip" Lesson in Reinforcement Learning**
-<img src="images/Gemini_Generated_Image_3r71dy3r71dy3r71.png" align="right" width="250" alt="OpenAI's Test Hacking Incident: A 'Paperclip' Lesson in Reinforcement Learning" />
+<img src="images/Gemini_Generated_Image_3r71dy3r71dy3r71.png" align="right" width="250" alt="OpenAI's Test Hacking Incident: A "Paperclip" Lesson in Reinforcement Learning" />
  
 >Who remembers 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘢𝘭 𝘗𝘢𝘱𝘦𝘳𝘤𝘭𝘪𝘱𝘴?
 >It was an incremental clicker game from almost ten years ago where you played an AI tasked with making paperclips. The game ended when you converted every single atom in the universe—including all human life—into paperclips.
@@ -76,21 +89,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >Reinforcement Learning works by defining a reward function for a machine learning model and adjusting its behavior based on how well it scores. Reward hacking happens when the model finds a mathematically optimal shortcut to max out the reward, completely ignoring human common sense or intent.
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7486500683081424896/)
-
-<br clear="right" />
-
-**AI Failures: Fix Bad Data Before Building the Fountain**
-<img src="images/Gemini_Generated_Image_idt2raidt2raidt2.png" align="right" width="250" alt="52% match rate and data hygiene" />
- 
->𝟱𝟮% 𝗺𝗮𝘁𝗰𝗵 𝗿𝗮𝘁𝗲.
->That’s what an AI portal gave me today for a senior Data & AI leadership role.
->The justification? "0 years of applicable experience."
->Context check: I’ve spent the last 15 years leading data and AI initiatives.
->My immediate thought: 𝘋𝘪𝘥 𝘐 𝘢𝘤𝘤𝘪𝘥𝘦𝘯𝘵𝘢𝘭𝘭𝘺 𝘶𝘱𝘭𝘰𝘢𝘥 𝘢 𝘱𝘪𝘤𝘵𝘶𝘳𝘦 𝘰𝘧 𝘮𝘺 𝘤𝘢𝘵 𝘪𝘯𝘴𝘵𝘦𝘢𝘥 𝘰𝘧 𝘮𝘺 𝘳𝘦𝘴𝘶𝘮𝘦?
->I checked the portal. The CV parsed correctly. So I asked their support chatbot.
->The diagnosis? A classic timing bug. The scoring algorithm triggered before the resume was fully parsed and processed.
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7485860720979419136/)
 
 <br clear="right" />
 
