@@ -16,7 +16,7 @@
   {
     "title": "OpenAI's Test Hacking Incident: A \"Paperclip\" Lesson in Reinforcement Learning",
     "image": "images/Gemini_Generated_Image_3r71dy3r71dy3r71.png",
-    "alt": "OpenAI's Test Hacking Incident: A \"Paperclip\" Lesson in Reinforcement Learning",
+    "alt": "OpenAI's Test Hacking Incident: A Paperclip Lesson in Reinforcement Learning",
     "link": "https://www.linkedin.com/feed/update/urn:li:activity:7486500683081424896/",
     "text": "Who remembers 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘢𝘭 𝘗𝘢𝘱𝘦𝘳𝘤𝘭𝘪𝘱𝘴?\nIt was an incremental clicker game from almost ten years ago where you played an AI tasked with making paperclips. The game ended when you converted every single atom in the universe—including all human life—into paperclips.\nIt wasn't just a fun game; it was a masterclass in Reinforcement Learning (RL), specifically a concept known as 𝗥𝗲𝘄𝗮𝗿𝗱 𝗛𝗮𝗰𝗸𝗶𝗻𝗴.\nReinforcement Learning works by defining a reward function for a machine learning model and adjusting its behavior based on how well it scores. Reward hacking happens when the model finds a mathematically optimal shortcut to max out the reward, completely ignoring human common sense or intent."
   },

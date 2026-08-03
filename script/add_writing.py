@@ -195,7 +195,9 @@ def add_interactive_post():
 
         alt_text = input("   Image alt text (press Enter to use Title): ").strip()
         if not alt_text:
-            alt_text = title
+            # Note: remove " for alt_text to avoid issues in rendering alt string
+            # TODO: Make this more robust
+            alt_text = title.replace('"','')
 
     print("\n4. Post Text:")
     text = get_multiline_input("Paste or type the text of your LinkedIn post below:")
