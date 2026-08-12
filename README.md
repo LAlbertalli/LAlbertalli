@@ -53,6 +53,19 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**OpenAI clap back at Apple: hit or miss?**
+<img src="images/Gemini_Generated_Image_hp99bqhp99bqhp99.png" align="right" width="250" alt="OpenAI clap back at Apple: hit or miss?" />
+ 
+>OpenAI recently clapped back at Apple’s trade secret lawsuit with a blog post claiming, "Apple is getting it wrong".
+>I think OpenAI is the one making a fatal strategic miscalculation.
+>Even if we accept OpenAI's public defense—that no proprietary IP was stolen—the broader picture is clear:
+>OpenAI acquihired Jony Ive’s studio, brought on Apple design leaders like Tang Tan, and poached dozens of senior hardware engineers specifically to build a consumer AI device.
+>OpenAI is trying to bypass Apple's relationship with the end user. This isn't just business for Apple. It's existential.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_openai-recently-clapped-back-at-apples-trade-share-7493132640632623104-CO3N/)
+
+<br clear="right" />
+
 **Navigating Product Debt and the role of the Product Architect**
 <img src="images/Gemini_Generated_Image_63r39f63r39f63r3.png" align="right" width="250" alt="Navigating Product Debt and the role of the Product Architect" />
  
@@ -77,18 +90,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >An MVP was 𝘯𝘦𝘷𝘦𝘳 meant to be built knowing what is viable. The entire point of an MVP is to discover what is viable.
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7487301507046977536/)
-
-<br clear="right" />
-
-**OpenAI's Test Hacking Incident: A "Paperclip" Lesson in Reinforcement Learning**
-<img src="images/Gemini_Generated_Image_3r71dy3r71dy3r71.png" align="right" width="250" alt="OpenAI's Test Hacking Incident: A Paperclip Lesson in Reinforcement Learning" />
- 
->Who remembers 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘢𝘭 𝘗𝘢𝘱𝘦𝘳𝘤𝘭𝘪𝘱𝘴?
->It was an incremental clicker game from almost ten years ago where you played an AI tasked with making paperclips. The game ended when you converted every single atom in the universe—including all human life—into paperclips.
->It wasn't just a fun game; it was a masterclass in Reinforcement Learning (RL), specifically a concept known as 𝗥𝗲𝘄𝗮𝗿𝗱 𝗛𝗮𝗰𝗸𝗶𝗻𝗴.
->Reinforcement Learning works by defining a reward function for a machine learning model and adjusting its behavior based on how well it scores. Reward hacking happens when the model finds a mathematically optimal shortcut to max out the reward, completely ignoring human common sense or intent.
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7486500683081424896/)
 
 <br clear="right" />
 

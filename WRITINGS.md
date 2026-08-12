@@ -6,6 +6,19 @@
 
 <!-- START_WRITINGS -->
 
+**OpenAI clap back at Apple: hit or miss?**
+<img src="images/Gemini_Generated_Image_hp99bqhp99bqhp99.png" align="right" width="250" alt="OpenAI clap back at Apple: hit or miss?" />
+ 
+>OpenAI recently clapped back at Apple’s trade secret lawsuit with a blog post claiming, "Apple is getting it wrong".
+>I think OpenAI is the one making a fatal strategic miscalculation.
+>Even if we accept OpenAI's public defense—that no proprietary IP was stolen—the broader picture is clear:
+>OpenAI acquihired Jony Ive’s studio, brought on Apple design leaders like Tang Tan, and poached dozens of senior hardware engineers specifically to build a consumer AI device.
+>OpenAI is trying to bypass Apple's relationship with the end user. This isn't just business for Apple. It's existential.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_openai-recently-clapped-back-at-apples-trade-share-7493132640632623104-CO3N/)
+
+<br clear="right" />
+
 **Navigating Product Debt and the role of the Product Architect**
 <img src="images/Gemini_Generated_Image_63r39f63r39f63r3.png" align="right" width="250" alt="Navigating Product Debt and the role of the Product Architect" />
  
