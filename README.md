@@ -53,6 +53,17 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Flying on autopilot and vibe coding**
+<img src="images/Gemini_Generated_Image_bj3g0hbj3g0hbj3g.png" align="right" width="250" alt="Flying on autopilot and vibe coding" />
+ 
+>When commercial airlines introduced advanced autopilot systems, they noticed an unintended consequence.
+>Pilots were losing their manual flying skills. When automation failed or edge cases hit, taking over manually became harder than it used to be.
+>The industry's fix? Require pilots to manually fly a set number of takeoffs and landings every month to maintain their "currency."
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_when-commercial-airlines-introduced-advanced-share-7493465364325130241-2Ngk/)
+
+<br clear="right" />
+
 **OpenAI clap back at Apple: hit or miss?**
 <img src="images/Gemini_Generated_Image_hp99bqhp99bqhp99.png" align="right" width="250" alt="OpenAI clap back at Apple: hit or miss?" />
  
@@ -76,20 +87,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >Product Architecture is the structural integrity of your entire product system:
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_product-debt-isnt-just-a-messy-backlog-or-share-7490169717652037632-M3Xy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
-
-<br clear="right" />
-
-**MVPs Aren't Dead. You’re Just Running Bad Ones.**
-<img src="images/1785088530665.jpeg" align="right" width="250" alt="MVPs Aren't Dead. You’re Just Running Bad Ones." />
- 
->I was tagged in a post today with a headline that caught me off guard:
->"MVPs are dead. Experiment instead."
->The post referenced an article arguing that MVPs are outdated because "the 'V' in MVP assumes a level of certainty that just doesn’t exist early on."
->The author's core complaint? That what a PM or founder thinks is "viable" rarely matches what the customer finds viable, so building an MVP is a waste of time.
->She has identified a real problem, but drawn the exact wrong conclusion.
->An MVP was 𝘯𝘦𝘷𝘦𝘳 meant to be built knowing what is viable. The entire point of an MVP is to discover what is viable.
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7487301507046977536/)
 
 <br clear="right" />
 

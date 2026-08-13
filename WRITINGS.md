@@ -6,6 +6,17 @@
 
 <!-- START_WRITINGS -->
 
+**Flying on autopilot and vibe coding**
+<img src="images/Gemini_Generated_Image_bj3g0hbj3g0hbj3g.png" align="right" width="250" alt="Flying on autopilot and vibe coding" />
+ 
+>When commercial airlines introduced advanced autopilot systems, they noticed an unintended consequence.
+>Pilots were losing their manual flying skills. When automation failed or edge cases hit, taking over manually became harder than it used to be.
+>The industry's fix? Require pilots to manually fly a set number of takeoffs and landings every month to maintain their "currency."
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_when-commercial-airlines-introduced-advanced-share-7493465364325130241-2Ngk/)
+
+<br clear="right" />
+
 **OpenAI clap back at Apple: hit or miss?**
 <img src="images/Gemini_Generated_Image_hp99bqhp99bqhp99.png" align="right" width="250" alt="OpenAI clap back at Apple: hit or miss?" />
  
