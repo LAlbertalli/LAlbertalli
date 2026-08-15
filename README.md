@@ -53,6 +53,21 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Gym hacked by AI or lack of product thinking?**
+<img src="images/Gemini_Generated_Image_i9jthki9jthki9jt.jpeg" align="right" width="250" alt="Gym hacked by AI or lack of product thinking?" />
+ 
+>The entire tech world lost its mind over an AI agent "hacking" a gym.
+>
+>The narrative: Claude went rogue, reverse-engineered an API, and deleted a real person’s reservation.
+>
+>The reality isn’t an AI safety breakthrough. It’s what happens when we unleash raw technology without product thinking.
+>
+>The great irony? The person prompting the agent wasn't an everyday consumer. He works for a consultancy advising companies on AI.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7494201525087506432/)
+
+<br clear="right" />
+
 **Flying on autopilot and vibe coding**
 <img src="images/Gemini_Generated_Image_bj3g0hbj3g0hbj3g.png" align="right" width="250" alt="Flying on autopilot and vibe coding" />
  
@@ -74,19 +89,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >OpenAI is trying to bypass Apple's relationship with the end user. This isn't just business for Apple. It's existential.
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_openai-recently-clapped-back-at-apples-trade-share-7493132640632623104-CO3N/)
-
-<br clear="right" />
-
-**Navigating Product Debt and the role of the Product Architect**
-<img src="images/Gemini_Generated_Image_63r39f63r39f63r3.png" align="right" width="250" alt="Navigating Product Debt and the role of the Product Architect" />
- 
->Product debt isn't just a messy backlog or a clunky user interface.
->It is the accumulated tax of shipping features without a structural blueprint.
->Ask most leaders who owns "Product Architecture," and they’ll either point to the CTO or assume it’s a UX designer's job. But if Product Architecture were just about screen flows, it would be a design task.
->It isn't.
->Product Architecture is the structural integrity of your entire product system:
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_product-debt-isnt-just-a-messy-backlog-or-share-7490169717652037632-M3Xy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOwVukBRiPKnUASlZUrbmngosBPwOFTNxs)
 
 <br clear="right" />
 

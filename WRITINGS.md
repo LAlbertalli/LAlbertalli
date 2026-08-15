@@ -6,6 +6,21 @@
 
 <!-- START_WRITINGS -->
 
+**Gym hacked by AI or lack of product thinking?**
+<img src="images/Gemini_Generated_Image_i9jthki9jthki9jt.jpeg" align="right" width="250" alt="Gym hacked by AI or lack of product thinking?" />
+ 
+>The entire tech world lost its mind over an AI agent "hacking" a gym.
+>
+>The narrative: Claude went rogue, reverse-engineered an API, and deleted a real person’s reservation.
+>
+>The reality isn’t an AI safety breakthrough. It’s what happens when we unleash raw technology without product thinking.
+>
+>The great irony? The person prompting the agent wasn't an everyday consumer. He works for a consultancy advising companies on AI.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7494201525087506432/)
+
+<br clear="right" />
+
 **Flying on autopilot and vibe coding**
 <img src="images/Gemini_Generated_Image_bj3g0hbj3g0hbj3g.png" align="right" width="250" alt="Flying on autopilot and vibe coding" />
  
