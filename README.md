@@ -53,6 +53,18 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**AI, Authorship, and Education**
+<img src="images/Gemini_Generated_Image_ny50d8ny50d8ny50.jpeg" align="right" width="250" alt="AI, Authorship, and Education" />
+ 
+>Every other post on my feed this week is reacting to Claude’s text watermarking.
+>Except... Google has been doing statistical watermarking with SynthID for nearly two years.
+>
+>The real anxiety behind the watermarking debate isn't technical. It’s an existential panic over **authorship**.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496331109132029952/)
+
+<br clear="right" />
+
 **Gym hacked by AI or lack of product thinking?**
 <img src="images/Gemini_Generated_Image_i9jthki9jthki9jt.jpeg" align="right" width="250" alt="Gym hacked by AI or lack of product thinking?" />
  
@@ -76,19 +88,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >The industry's fix? Require pilots to manually fly a set number of takeoffs and landings every month to maintain their "currency."
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_when-commercial-airlines-introduced-advanced-share-7493465364325130241-2Ngk/)
-
-<br clear="right" />
-
-**OpenAI clap back at Apple: hit or miss?**
-<img src="images/Gemini_Generated_Image_hp99bqhp99bqhp99.png" align="right" width="250" alt="OpenAI clap back at Apple: hit or miss?" />
- 
->OpenAI recently clapped back at Apple’s trade secret lawsuit with a blog post claiming, "Apple is getting it wrong".
->I think OpenAI is the one making a fatal strategic miscalculation.
->Even if we accept OpenAI's public defense—that no proprietary IP was stolen—the broader picture is clear:
->OpenAI acquihired Jony Ive’s studio, brought on Apple design leaders like Tang Tan, and poached dozens of senior hardware engineers specifically to build a consumer AI device.
->OpenAI is trying to bypass Apple's relationship with the end user. This isn't just business for Apple. It's existential.
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_openai-recently-clapped-back-at-apples-trade-share-7493132640632623104-CO3N/)
 
 <br clear="right" />
 

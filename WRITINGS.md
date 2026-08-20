@@ -6,6 +6,18 @@
 
 <!-- START_WRITINGS -->
 
+**AI, Authorship, and Education**
+<img src="images/Gemini_Generated_Image_ny50d8ny50d8ny50.jpeg" align="right" width="250" alt="AI, Authorship, and Education" />
+ 
+>Every other post on my feed this week is reacting to Claude’s text watermarking.
+>Except... Google has been doing statistical watermarking with SynthID for nearly two years.
+>
+>The real anxiety behind the watermarking debate isn't technical. It’s an existential panic over **authorship**.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496331109132029952/)
+
+<br clear="right" />
+
 **Gym hacked by AI or lack of product thinking?**
 <img src="images/Gemini_Generated_Image_i9jthki9jthki9jt.jpeg" align="right" width="250" alt="Gym hacked by AI or lack of product thinking?" />
  
