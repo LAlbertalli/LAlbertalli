@@ -59,7 +59,7 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >Every other post on my feed this week is reacting to Claude’s text watermarking.
 >Except... Google has been doing statistical watermarking with SynthID for nearly two years.
 >
->The real anxiety behind the watermarking debate isn't technical. It’s an existential panic over **authorship**.
+>The real anxiety behind the watermarking debate isn't technical. It’s an existential panic over 𝗮𝘂𝘁𝗵𝗼𝗿𝘀𝗵𝗶𝗽.
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496331109132029952/)
 
