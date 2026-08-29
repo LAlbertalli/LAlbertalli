@@ -53,6 +53,17 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Rebuilding Silos with AI**
+<img src="images/Gemini_Generated_Image_hfxdrzhfxdrzhfxd.jpeg" align="right" width="250" alt="Rebuilding Silos with AI" />
+ 
+>Seeing "Must support MCP" become a standard vendor selection criterion feels like a collective misstep.
+>I understand why teams do it. But asking for MCP instead of an actual capability misses the point.
+>At its core, MCP is just a standardized way to wrap an API for an LLM to consume. A skill running via CLI can often achieve the exact same read/write outcome more effectively.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gKf_-mkp)
+
+<br clear="right" />
+
 **AI, Authorship, and Education**
 <img src="images/Gemini_Generated_Image_ny50d8ny50d8ny50.jpeg" align="right" width="250" alt="AI, Authorship, and Education" />
  
@@ -77,17 +88,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >The great irony? The person prompting the agent wasn't an everyday consumer. He works for a consultancy advising companies on AI.
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7494201525087506432/)
-
-<br clear="right" />
-
-**Flying on autopilot and vibe coding**
-<img src="images/Gemini_Generated_Image_bj3g0hbj3g0hbj3g.png" align="right" width="250" alt="Flying on autopilot and vibe coding" />
- 
->When commercial airlines introduced advanced autopilot systems, they noticed an unintended consequence.
->Pilots were losing their manual flying skills. When automation failed or edge cases hit, taking over manually became harder than it used to be.
->The industry's fix? Require pilots to manually fly a set number of takeoffs and landings every month to maintain their "currency."
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_when-commercial-airlines-introduced-advanced-share-7493465364325130241-2Ngk/)
 
 <br clear="right" />
 

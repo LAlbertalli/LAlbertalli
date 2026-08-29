@@ -6,6 +6,17 @@
 
 <!-- START_WRITINGS -->
 
+**Rebuilding Silos with AI**
+<img src="images/Gemini_Generated_Image_hfxdrzhfxdrzhfxd.jpeg" align="right" width="250" alt="Rebuilding Silos with AI" />
+ 
+>Seeing "Must support MCP" become a standard vendor selection criterion feels like a collective misstep.
+>I understand why teams do it. But asking for MCP instead of an actual capability misses the point.
+>At its core, MCP is just a standardized way to wrap an API for an LLM to consume. A skill running via CLI can often achieve the exact same read/write outcome more effectively.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gKf_-mkp)
+
+<br clear="right" />
+
 **AI, Authorship, and Education**
 <img src="images/Gemini_Generated_Image_ny50d8ny50d8ny50.jpeg" align="right" width="250" alt="AI, Authorship, and Education" />
  
