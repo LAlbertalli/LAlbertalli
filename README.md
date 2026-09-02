@@ -53,6 +53,18 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Leadership Beyond User Stories**
+<img src="images/Gemini_Generated_Image_lkxus0lkxus0lkxu.jpeg" align="right" width="250" alt="Leadership Beyond User Stories" />
+ 
+>“Do you have a good book on how to write user stories?”
+>A mentee asked me this right after wrapping an in-person offsite with his newly scaled product and engineering organization.
+>He thought his biggest bottleneck was documentation hygiene.
+>By the end of our call, he realized he had spent his most valuable leadership asset solving the wrong problem.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gS3ZBNFJ)
+
+<br clear="right" />
+
 **Rebuilding Silos with AI**
 <img src="images/Gemini_Generated_Image_hfxdrzhfxdrzhfxd.jpeg" align="right" width="250" alt="Rebuilding Silos with AI" />
  
@@ -73,21 +85,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >The real anxiety behind the watermarking debate isn't technical. It’s an existential panic over 𝗮𝘂𝘁𝗵𝗼𝗿𝘀𝗵𝗶𝗽.
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496331109132029952/)
-
-<br clear="right" />
-
-**Gym hacked by AI or lack of product thinking?**
-<img src="images/Gemini_Generated_Image_i9jthki9jthki9jt.jpeg" align="right" width="250" alt="Gym hacked by AI or lack of product thinking?" />
- 
->The entire tech world lost its mind over an AI agent "hacking" a gym.
->
->The narrative: Claude went rogue, reverse-engineered an API, and deleted a real person’s reservation.
->
->The reality isn’t an AI safety breakthrough. It’s what happens when we unleash raw technology without product thinking.
->
->The great irony? The person prompting the agent wasn't an everyday consumer. He works for a consultancy advising companies on AI.
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7494201525087506432/)
 
 <br clear="right" />
 

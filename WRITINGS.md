@@ -6,6 +6,18 @@
 
 <!-- START_WRITINGS -->
 
+**Leadership Beyond User Stories**
+<img src="images/Gemini_Generated_Image_lkxus0lkxus0lkxu.jpeg" align="right" width="250" alt="Leadership Beyond User Stories" />
+ 
+>“Do you have a good book on how to write user stories?”
+>A mentee asked me this right after wrapping an in-person offsite with his newly scaled product and engineering organization.
+>He thought his biggest bottleneck was documentation hygiene.
+>By the end of our call, he realized he had spent his most valuable leadership asset solving the wrong problem.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gS3ZBNFJ)
+
+<br clear="right" />
+
 **Rebuilding Silos with AI**
 <img src="images/Gemini_Generated_Image_hfxdrzhfxdrzhfxd.jpeg" align="right" width="250" alt="Rebuilding Silos with AI" />
  
