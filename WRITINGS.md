@@ -6,6 +6,20 @@
 
 <!-- START_WRITINGS -->
 
+**Grounding AI Velocity in Reality**
+<img src="images/Gemini_Generated_Image_g5fevbg5fevbg5fe.jpeg" align="right" width="250" alt="Grounding AI Velocity in Reality" />
+ 
+>Tesla unveiled the Cybertruck in 2019. First deliveries: late 2023.
+>SpaceX began developing Starship in 2018. In 2026, it is still working through major hurdles to reach operational scale.
+>In automotive, 4 years from whiteboard to driveway is standard. In aerospace, ULA announced the Vulcan in 2014 and achieved its first commercial flight a decade later.
+>Even organizations famous for ruthless schedules and pushing engineers to the brink take just as long as mature incumbents to ship complex hardware.
+>​
+>Gravity is undefeated.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/g6Eu8Gq4)
+
+<br clear="right" />
+
 **Leadership Beyond User Stories**
 <img src="images/Gemini_Generated_Image_lkxus0lkxus0lkxu.jpeg" align="right" width="250" alt="Leadership Beyond User Stories" />
  

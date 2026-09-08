@@ -53,6 +53,20 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Grounding AI Velocity in Reality**
+<img src="images/Gemini_Generated_Image_g5fevbg5fevbg5fe.jpeg" align="right" width="250" alt="Grounding AI Velocity in Reality" />
+ 
+>Tesla unveiled the Cybertruck in 2019. First deliveries: late 2023.
+>SpaceX began developing Starship in 2018. In 2026, it is still working through major hurdles to reach operational scale.
+>In automotive, 4 years from whiteboard to driveway is standard. In aerospace, ULA announced the Vulcan in 2014 and achieved its first commercial flight a decade later.
+>Even organizations famous for ruthless schedules and pushing engineers to the brink take just as long as mature incumbents to ship complex hardware.
+>​
+>Gravity is undefeated.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/g6Eu8Gq4)
+
+<br clear="right" />
+
 **Leadership Beyond User Stories**
 <img src="images/Gemini_Generated_Image_lkxus0lkxus0lkxu.jpeg" align="right" width="250" alt="Leadership Beyond User Stories" />
  
@@ -73,18 +87,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >At its core, MCP is just a standardized way to wrap an API for an LLM to consume. A skill running via CLI can often achieve the exact same read/write outcome more effectively.
 >
 > 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gKf_-mkp)
-
-<br clear="right" />
-
-**AI, Authorship, and Education**
-<img src="images/Gemini_Generated_Image_ny50d8ny50d8ny50.jpeg" align="right" width="250" alt="AI, Authorship, and Education" />
- 
->Every other post on my feed this week is reacting to Claude’s text watermarking.
->Except... Google has been doing statistical watermarking with SynthID for nearly two years.
->
->The real anxiety behind the watermarking debate isn't technical. It’s an existential panic over 𝗮𝘂𝘁𝗵𝗼𝗿𝘀𝗵𝗶𝗽.
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496331109132029952/)
 
 <br clear="right" />
 
