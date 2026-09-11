@@ -53,6 +53,19 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Human Judgment vs AI doomsday scenarios**
+<img src="images/Gemini_Generated_Image_194lxm194lxm194l.jpeg" align="right" width="250" alt="Human Judgment vs AI doomsday scenarios" />
+ 
+>If you spent any time on tech feeds this week, you probably felt whiplash:
+>1. OpenAI claimed to solve a question related to the Navier-Stokes equations.
+>2. An Anthropic researcher put the probability of AI wiping out humanity by 2030 at over 10%.
+>3. The latest PISA test results dropped, showing that students who frequently rely on AI perform noticeably worse than their peers.
+>Controversial math, existential catastrophe, and classroom cognitive decline. At first glance, they seem completely disconnected.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gqarazb5)
+
+<br clear="right" />
+
 **Grounding AI Velocity in Reality**
 <img src="images/Gemini_Generated_Image_g5fevbg5fevbg5fe.jpeg" align="right" width="250" alt="Grounding AI Velocity in Reality" />
  
@@ -76,17 +89,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >By the end of our call, he realized he had spent his most valuable leadership asset solving the wrong problem.
 >
 > 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gS3ZBNFJ)
-
-<br clear="right" />
-
-**Rebuilding Silos with AI**
-<img src="images/Gemini_Generated_Image_hfxdrzhfxdrzhfxd.jpeg" align="right" width="250" alt="Rebuilding Silos with AI" />
- 
->Seeing "Must support MCP" become a standard vendor selection criterion feels like a collective misstep.
->I understand why teams do it. But asking for MCP instead of an actual capability misses the point.
->At its core, MCP is just a standardized way to wrap an API for an LLM to consume. A skill running via CLI can often achieve the exact same read/write outcome more effectively.
->
-> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gKf_-mkp)
 
 <br clear="right" />
 

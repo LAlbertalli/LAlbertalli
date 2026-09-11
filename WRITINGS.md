@@ -6,6 +6,19 @@
 
 <!-- START_WRITINGS -->
 
+**Human Judgment vs AI doomsday scenarios**
+<img src="images/Gemini_Generated_Image_194lxm194lxm194l.jpeg" align="right" width="250" alt="Human Judgment vs AI doomsday scenarios" />
+ 
+>If you spent any time on tech feeds this week, you probably felt whiplash:
+>1. OpenAI claimed to solve a question related to the Navier-Stokes equations.
+>2. An Anthropic researcher put the probability of AI wiping out humanity by 2030 at over 10%.
+>3. The latest PISA test results dropped, showing that students who frequently rely on AI perform noticeably worse than their peers.
+>Controversial math, existential catastrophe, and classroom cognitive decline. At first glance, they seem completely disconnected.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gqarazb5)
+
+<br clear="right" />
+
 **Grounding AI Velocity in Reality**
 <img src="images/Gemini_Generated_Image_g5fevbg5fevbg5fe.jpeg" align="right" width="250" alt="Grounding AI Velocity in Reality" />
  
