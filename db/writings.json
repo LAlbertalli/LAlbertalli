@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Evolution of Product Management",
+    "image": null,
+    "alt": null,
+    "link": "https://www.linkedin.com/posts/lucaalbertalli_i-finally-have-a-different-view-on-what-pming-activity-7506101816812650496-vJZW",
+    "text": "AI is forcing product management to confront an uncomfortable truth: most PMs in large organizations aren't managing products—they are acting as human APIs.\n​\nThey spend their weeks scheduling alignment syncs, grooming Jira queues, and writing exhaustive 30-page PRDs just to justify building three small features a quarter.\n​\nIn this post, Satyajeet Salgar accurately diagnosed the root cause: extreme resource scarcity. When engineering capacity is severely constrained, organizations instinctively build bureaucratic defenses to avoid an expensive mistake.\n​\nAI completely flips that economic reality.\n​\nCode generation is practically free. Rapid prototyping is cheap. Synthesizing raw customer data is cheap."
+  },
+  {
     "title": "Human Judgment vs AI doomsday scenarios",
     "image": "images/Gemini_Generated_Image_194lxm194lxm194l.jpeg",
     "alt": "Human Judgment vs AI doomsday scenarios",

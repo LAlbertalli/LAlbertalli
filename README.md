@@ -53,6 +53,22 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**The Evolution of Product Management**
+
+>AI is forcing product management to confront an uncomfortable truth: most PMs in large organizations aren't managing products—they are acting as human APIs.
+>​
+>They spend their weeks scheduling alignment syncs, grooming Jira queues, and writing exhaustive 30-page PRDs just to justify building three small features a quarter.
+>​
+>In this post, Satyajeet Salgar accurately diagnosed the root cause: extreme resource scarcity. When engineering capacity is severely constrained, organizations instinctively build bureaucratic defenses to avoid an expensive mistake.
+>​
+>AI completely flips that economic reality.
+>​
+>Code generation is practically free. Rapid prototyping is cheap. Synthesizing raw customer data is cheap.
+>
+> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_i-finally-have-a-different-view-on-what-pming-activity-7506101816812650496-vJZW)
+
+<br clear="right" />
+
 **Human Judgment vs AI doomsday scenarios**
 <img src="images/Gemini_Generated_Image_194lxm194lxm194l.jpeg" align="right" width="250" alt="Human Judgment vs AI doomsday scenarios" />
  
@@ -77,18 +93,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >Gravity is undefeated.
 >
 > 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/g6Eu8Gq4)
-
-<br clear="right" />
-
-**Leadership Beyond User Stories**
-<img src="images/Gemini_Generated_Image_lkxus0lkxus0lkxu.jpeg" align="right" width="250" alt="Leadership Beyond User Stories" />
- 
->“Do you have a good book on how to write user stories?”
->A mentee asked me this right after wrapping an in-person offsite with his newly scaled product and engineering organization.
->He thought his biggest bottleneck was documentation hygiene.
->By the end of our call, he realized he had spent his most valuable leadership asset solving the wrong problem.
->
-> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gS3ZBNFJ)
 
 <br clear="right" />
 
