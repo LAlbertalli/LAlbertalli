@@ -53,6 +53,17 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Architecting AI Coding Agents for Leverage**
+<img src="images/Gemini_Generated_Image_pog3u9pog3u9pog3.jpeg" align="right" width="250" alt="Architecting AI Coding Agents for Leverage" />
+ 
+>A friend, Emanuele Cesena, and I have been debating AI coding harnesses for weeks.
+>His point: we have a backlog of side projects where we just want quick POCs and don’t care about pristine implementation.
+>My counter: harnesses don't give you Staff Engineers. They give you three hyperactive junior engineers who need constant supervision, clear task boundaries, and relentless configuration.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gmptt5Mx)
+
+<br clear="right" />
+
 **The Evolution of Product Management**
 
 >AI is forcing product management to confront an uncomfortable truth: most PMs in large organizations aren't managing products—they are acting as human APIs.
@@ -79,20 +90,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >Controversial math, existential catastrophe, and classroom cognitive decline. At first glance, they seem completely disconnected.
 >
 > 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gqarazb5)
-
-<br clear="right" />
-
-**Grounding AI Velocity in Reality**
-<img src="images/Gemini_Generated_Image_g5fevbg5fevbg5fe.jpeg" align="right" width="250" alt="Grounding AI Velocity in Reality" />
- 
->Tesla unveiled the Cybertruck in 2019. First deliveries: late 2023.
->SpaceX began developing Starship in 2018. In 2026, it is still working through major hurdles to reach operational scale.
->In automotive, 4 years from whiteboard to driveway is standard. In aerospace, ULA announced the Vulcan in 2014 and achieved its first commercial flight a decade later.
->Even organizations famous for ruthless schedules and pushing engineers to the brink take just as long as mature incumbents to ship complex hardware.
->​
->Gravity is undefeated.
->
-> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/g6Eu8Gq4)
 
 <br clear="right" />
 

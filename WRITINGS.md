@@ -6,6 +6,17 @@
 
 <!-- START_WRITINGS -->
 
+**Architecting AI Coding Agents for Leverage**
+<img src="images/Gemini_Generated_Image_pog3u9pog3u9pog3.jpeg" align="right" width="250" alt="Architecting AI Coding Agents for Leverage" />
+ 
+>A friend, Emanuele Cesena, and I have been debating AI coding harnesses for weeks.
+>His point: we have a backlog of side projects where we just want quick POCs and don’t care about pristine implementation.
+>My counter: harnesses don't give you Staff Engineers. They give you three hyperactive junior engineers who need constant supervision, clear task boundaries, and relentless configuration.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gmptt5Mx)
+
+<br clear="right" />
+
 **The Evolution of Product Management**
 
 >AI is forcing product management to confront an uncomfortable truth: most PMs in large organizations aren't managing products—they are acting as human APIs.
