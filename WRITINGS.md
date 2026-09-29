@@ -6,6 +6,22 @@
 
 <!-- START_WRITINGS -->
 
+**The importance of saying YES!**
+<img src="images/Gemini_Generated_Image_8oyipt8oyipt8oyi.jpeg" align="right" width="250" alt="The importance of saying YES!" />
+ 
+>"Tell me about a time you said no."
+>​
+>Every PM interview prep guide repeats that line like gospel.
+>We’ve spent years romanticizing pushback, gatekeeping backlogs, and defending roadmaps. We celebrate saying no.
+>​
+>Pushing back is hard. Saying yes carelessly is easy.
+>But saying yes to something that terrifies you—and delivering against impossible odds?
+>That is the product leader I want on my team.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gHgXDwbT)
+
+<br clear="right" />
+
 **Architecting AI Coding Agents for Leverage**
 <img src="images/Gemini_Generated_Image_pog3u9pog3u9pog3.jpeg" align="right" width="250" alt="Architecting AI Coding Agents for Leverage" />
  

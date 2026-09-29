@@ -53,6 +53,22 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**The importance of saying YES!**
+<img src="images/Gemini_Generated_Image_8oyipt8oyipt8oyi.jpeg" align="right" width="250" alt="The importance of saying YES!" />
+ 
+>"Tell me about a time you said no."
+>​
+>Every PM interview prep guide repeats that line like gospel.
+>We’ve spent years romanticizing pushback, gatekeeping backlogs, and defending roadmaps. We celebrate saying no.
+>​
+>Pushing back is hard. Saying yes carelessly is easy.
+>But saying yes to something that terrifies you—and delivering against impossible odds?
+>That is the product leader I want on my team.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gHgXDwbT)
+
+<br clear="right" />
+
 **Architecting AI Coding Agents for Leverage**
 <img src="images/Gemini_Generated_Image_pog3u9pog3u9pog3.jpeg" align="right" width="250" alt="Architecting AI Coding Agents for Leverage" />
  
@@ -77,19 +93,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >Code generation is practically free. Rapid prototyping is cheap. Synthesizing raw customer data is cheap.
 >
 > 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_i-finally-have-a-different-view-on-what-pming-activity-7506101816812650496-vJZW)
-
-<br clear="right" />
-
-**Human Judgment vs AI doomsday scenarios**
-<img src="images/Gemini_Generated_Image_194lxm194lxm194l.jpeg" align="right" width="250" alt="Human Judgment vs AI doomsday scenarios" />
- 
->If you spent any time on tech feeds this week, you probably felt whiplash:
->1. OpenAI claimed to solve a question related to the Navier-Stokes equations.
->2. An Anthropic researcher put the probability of AI wiping out humanity by 2030 at over 10%.
->3. The latest PISA test results dropped, showing that students who frequently rely on AI perform noticeably worse than their peers.
->Controversial math, existential catastrophe, and classroom cognitive decline. At first glance, they seem completely disconnected.
->
-> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gqarazb5)
 
 <br clear="right" />
 
