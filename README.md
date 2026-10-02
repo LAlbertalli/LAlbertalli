@@ -53,6 +53,23 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Are AI Labs showing us a new path for building products?**
+
+>[This post caught my attention](https://lnkd.in/p/ewVGJyEF). The thesis: frontier AI labs can ship half-built products because LLMs act like built-in, forward-deployed engineers.
+>​
+>Enticing but wrong take. 
+>​
+>Let's see why.
+>​
+>**1. The AI isn't the forward-deployed engineer. You are.**
+>Early adopters have always crawled over broken glass. They wrote hacky bash scripts to reboot memory-leaking databases at 3 AM just to use cutting-edge tech.
+>​
+>What changed isn't that the software magically heals itself. What changed is that natural language collapsed the barrier to entry.
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/e32yFtej)
+
+<br clear="right" />
+
 **The importance of saying YES!**
 <img src="images/Gemini_Generated_Image_8oyipt8oyipt8oyi.jpeg" align="right" width="250" alt="The importance of saying YES!" />
  
@@ -77,22 +94,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >My counter: harnesses don't give you Staff Engineers. They give you three hyperactive junior engineers who need constant supervision, clear task boundaries, and relentless configuration.
 >
 > 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gmptt5Mx)
-
-<br clear="right" />
-
-**The Evolution of Product Management**
-
->AI is forcing product management to confront an uncomfortable truth: most PMs in large organizations aren't managing products—they are acting as human APIs.
->​
->They spend their weeks scheduling alignment syncs, grooming Jira queues, and writing exhaustive 30-page PRDs just to justify building three small features a quarter.
->​
->In this post, Satyajeet Salgar accurately diagnosed the root cause: extreme resource scarcity. When engineering capacity is severely constrained, organizations instinctively build bureaucratic defenses to avoid an expensive mistake.
->​
->AI completely flips that economic reality.
->​
->Code generation is practically free. Rapid prototyping is cheap. Synthesizing raw customer data is cheap.
->
-> 🔗 [Read the full post on LinkedIn](https://www.linkedin.com/posts/lucaalbertalli_i-finally-have-a-different-view-on-what-pming-activity-7506101816812650496-vJZW)
 
 <br clear="right" />
 

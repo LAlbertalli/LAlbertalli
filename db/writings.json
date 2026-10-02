@@ -1,5 +1,12 @@
 [
   {
+    "title": "Are AI Labs showing us a new path for building products?",
+    "image": null,
+    "alt": null,
+    "link": "https://lnkd.in/p/e32yFtej",
+    "text": "[This post caught my attention](https://lnkd.in/p/ewVGJyEF). The thesis: frontier AI labs can ship half-built products because LLMs act like built-in, forward-deployed engineers.\n​\nEnticing but wrong take. \n​\nLet's see why.\n​\n**1. The AI isn't the forward-deployed engineer. You are.**\nEarly adopters have always crawled over broken glass. They wrote hacky bash scripts to reboot memory-leaking databases at 3 AM just to use cutting-edge tech.\n​\nWhat changed isn't that the software magically heals itself. What changed is that natural language collapsed the barrier to entry."
+  },
+  {
     "title": "The importance of saying YES!",
     "image": "images/Gemini_Generated_Image_8oyipt8oyipt8oyi.jpeg",
     "alt": "The importance of saying YES!",
