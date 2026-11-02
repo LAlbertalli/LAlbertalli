@@ -53,6 +53,17 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**When you get compliments from your agent**
+<img src="images/09270e07-30da-4c86-98fd-a516fcb5b894.jpeg" align="right" width="250" alt="When you get compliments from your agent" />
+ 
+>Ahhh!!! The bliss you get when your agent flatters you in its thinking traces. "@#thought Aha! Look at what the user just wrote:"  And then, "Let's pause and appreciate how brilliant that idea is!"
+>
+>Just to say, never delegate your thinking process and product taste to an AI. It was going for the average. I settle for nothing less than brilliance!
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gHKvzptq)
+
+<br clear="right" />
+
 **Are AI Labs showing us a new path for building products?**
 
 >[This post caught my attention](https://lnkd.in/p/ewVGJyEF). The thesis: frontier AI labs can ship half-built products because LLMs act like built-in, forward-deployed engineers.
@@ -83,17 +94,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >That is the product leader I want on my team.
 >
 > 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gHgXDwbT)
-
-<br clear="right" />
-
-**Architecting AI Coding Agents for Leverage**
-<img src="images/Gemini_Generated_Image_pog3u9pog3u9pog3.jpeg" align="right" width="250" alt="Architecting AI Coding Agents for Leverage" />
- 
->A friend, Emanuele Cesena, and I have been debating AI coding harnesses for weeks.
->His point: we have a backlog of side projects where we just want quick POCs and don’t care about pristine implementation.
->My counter: harnesses don't give you Staff Engineers. They give you three hyperactive junior engineers who need constant supervision, clear task boundaries, and relentless configuration.
->
-> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gmptt5Mx)
 
 <br clear="right" />
 

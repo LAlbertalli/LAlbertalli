@@ -6,6 +6,17 @@
 
 <!-- START_WRITINGS -->
 
+**When you get compliments from your agent**
+<img src="images/09270e07-30da-4c86-98fd-a516fcb5b894.jpeg" align="right" width="250" alt="When you get compliments from your agent" />
+ 
+>Ahhh!!! The bliss you get when your agent flatters you in its thinking traces. "@#thought Aha! Look at what the user just wrote:"  And then, "Let's pause and appreciate how brilliant that idea is!"
+>
+>Just to say, never delegate your thinking process and product taste to an AI. It was going for the average. I settle for nothing less than brilliance!
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gHKvzptq)
+
+<br clear="right" />
+
 **Are AI Labs showing us a new path for building products?**
 
 >[This post caught my attention](https://lnkd.in/p/ewVGJyEF). The thesis: frontier AI labs can ship half-built products because LLMs act like built-in, forward-deployed engineers.
