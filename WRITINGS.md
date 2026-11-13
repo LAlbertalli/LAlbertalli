@@ -6,6 +6,17 @@
 
 <!-- START_WRITINGS -->
 
+**3DFx vs. Nvidia then and now**
+<img src="images/watermarked_img_9920986857816563627.jpg" align="right" width="250" alt="3DFx vs. Nvidia then and now" />
+ 
+>The biggest threat to a hardware monopoly isn't a faster chip. It’s an abstraction layer.
+>When I was in high school building my first gaming rig, the obvious choice for a 3D accelerator was the 3dfx Voodoo. It ran in parallel to your regular 2D graphics card, and every single one of my classmates wanted one.
+>My choice? An STB Velocity 128 powered by the NVIDIA RIVA 128. When it came time to upgrade,
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gYHNYDqk)
+
+<br clear="right" />
+
 **When you get compliments from your agent**
 <img src="images/09270e07-30da-4c86-98fd-a516fcb5b894.jpeg" align="right" width="250" alt="When you get compliments from your agent" />
  
