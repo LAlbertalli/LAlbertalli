@@ -6,6 +6,22 @@
 
 <!-- START_WRITINGS -->
 
+**Google Chemestry**
+<img src="images/watermarked_img_14561053999601922159.jpg" align="right" width="250" alt="Google Chemestry" />
+ 
+>Someone needs to send the Gemini marketing team a link to the Periodic Table.
+>​
+>With Gemini 4 Hydrogen rounding out the lineup alongside Carbon and Argon, Google’s naming convention looks sleek on a launch slide.
+>​
+>Until you spend five minutes thinking about the actual chemistry:
+>​
+>• Flagship: Carbon (Element #6)
+>• Mid-tier: Argon (Element #18)
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gb-Swq5f)
+
+<br clear="right" />
+
 **3DFx vs. Nvidia then and now**
 <img src="images/watermarked_img_9920986857816563627.jpg" align="right" width="250" alt="3DFx vs. Nvidia then and now" />
  

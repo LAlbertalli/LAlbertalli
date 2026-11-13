@@ -53,6 +53,22 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 
 <!-- START_WRITINGS -->
 
+**Google Chemestry**
+<img src="images/watermarked_img_14561053999601922159.jpg" align="right" width="250" alt="Google Chemestry" />
+ 
+>Someone needs to send the Gemini marketing team a link to the Periodic Table.
+>​
+>With Gemini 4 Hydrogen rounding out the lineup alongside Carbon and Argon, Google’s naming convention looks sleek on a launch slide.
+>​
+>Until you spend five minutes thinking about the actual chemistry:
+>​
+>• Flagship: Carbon (Element #6)
+>• Mid-tier: Argon (Element #18)
+>
+> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gb-Swq5f)
+
+<br clear="right" />
+
 **3DFx vs. Nvidia then and now**
 <img src="images/watermarked_img_9920986857816563627.jpg" align="right" width="250" alt="3DFx vs. Nvidia then and now" />
  
@@ -72,23 +88,6 @@ While my day-to-day focus is on product leadership and strategy, I remain a buil
 >Just to say, never delegate your thinking process and product taste to an AI. It was going for the average. I settle for nothing less than brilliance!
 >
 > 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/gHKvzptq)
-
-<br clear="right" />
-
-**Are AI Labs showing us a new path for building products?**
-
->[This post caught my attention](https://lnkd.in/p/ewVGJyEF). The thesis: frontier AI labs can ship half-built products because LLMs act like built-in, forward-deployed engineers.
->​
->Enticing but wrong take. 
->​
->Let's see why.
->​
->**1. The AI isn't the forward-deployed engineer. You are.**
->Early adopters have always crawled over broken glass. They wrote hacky bash scripts to reboot memory-leaking databases at 3 AM just to use cutting-edge tech.
->​
->What changed isn't that the software magically heals itself. What changed is that natural language collapsed the barrier to entry.
->
-> 🔗 [Read the full post on LinkedIn](https://lnkd.in/p/e32yFtej)
 
 <br clear="right" />
 
